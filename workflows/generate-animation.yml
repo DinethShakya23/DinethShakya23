@@ -25,15 +25,15 @@ jobs:
           ref: master
           
       # generates a snake game from a github user contributions graph, output a svg animation
-      - name: generate github-contribution-grid-snake.svg
+      - name: generate grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: DinethShakya23
           color_snake: "#0000FF"
           
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/grid-snake.svg
+            dist/grid-snake-dark.svg?palette=github-dark
       
       - name: Commit and push the animation 
         run: |
