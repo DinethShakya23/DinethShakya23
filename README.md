@@ -41,7 +41,6 @@
   <!-- Hardware/Embedded -->
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" alt="AVR" width="40" />
-  <img src="https://img.shields.io/badge/Verilog_HDL-red?style=flat&logo=xilinx&logoColor=white" alt="Verilog HDL" width="80" height="40" />
   <img src="https://mqtt.org/assets/img/mqtt-logo-transp.svg" alt="MQTT" width="40" />
 
   <!-- Frameworks/Libraries -->
