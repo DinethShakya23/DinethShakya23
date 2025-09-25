@@ -97,6 +97,12 @@
   </p>
 </div>
 
+<div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DinethShakya23&langs_count=10&count_private=true&theme=dark&bg_color=000000&layout=compact&show_icons=true&include_forks=true)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DinethShakya23&theme=dark&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)<br>
+<!--  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chandula00&count_private=true&theme=dark&background=000000)](https://git.io/streak-stats) -->
+</div>
+
 
 ---
 
