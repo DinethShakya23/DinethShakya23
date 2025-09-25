@@ -1,14 +1,3 @@
-<div align="center">
-  <h1 style="font-size: 4em; color: black; font-weight: bold; margin: 20px 0;">
-    Hello<span style="animation: blink 1s infinite;">|</span>
-  </h1>
-</div>
-<style>
-@keyframes blink {
-  0%, 50% { opacity: 1; }
-  51%, 100% { opacity: 0; }
-}
-
 <img src="hello.gif" alt="My GIF" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Dineth Shakya</h1>
