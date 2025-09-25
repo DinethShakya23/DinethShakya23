@@ -9,6 +9,61 @@
 - 🌱 Currently exploring **Web Developmen** , **Linux**, **AWS**, and **DevOps**  
 
 ---
+### 🔍 Connect with me:
+<p align="center">
+  <!-- <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height="40" />
+  </a> -->
+  <a href="www.linkedin.com/in/dineth-shakya-25a759211" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" height="40" />
+  </a>
+  <a href="https://www.instagram.com/dine_shakya?igsh=YWw3aWZkdW8xa213" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" />
+  </a>
+  <a href="mailto:dinethshakya19@email.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.kaggle.com/dinethshakya" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="40" />
+</a>
+  <!-- <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40" />
+  </a> -->
+  <!-- <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="40" />
+  </a> -->
+</p>
+
+---
+
+### 📊 GitHub Stats     
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DinethShakya23&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+</p> -->
+
+<div align="center">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=react&preferLogin=false">
+    <img alt="DinethShakya's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/DinethShakya23?cardType=level-alternate&theme=react&preferLogin=false" />
+  </a>
+  <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DinethShakya23&theme=radical" alt="GitHub Streak" height="180"/>
+    <br>
+  <!-- Top Languages Badge -->
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinethShakya23&langs_count=10&count_private=true&count_public=true&theme=dark&bg_color=000000&layout=compact&show_icons=true&include_forks=true" alt="Top Langs" />
+  </a>
+
+<!-- WakaTime Stats Badge
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=DinethShakya23&theme=dark&bg_color=000000" 
+    alt="Dineth's WakaTime stats" 
+  />
+</a>
+<br> -->
+
+</div>
+
+---
 
 ### 🧰 Languages and Tools:
 <p align="center">
@@ -47,69 +102,6 @@
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" />
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />
 
-</p>
-
----
-
-### 📊 GitHub Stats     
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DinethShakya23&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-</p> -->
-
-<div align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=react&preferLogin=false">
-    <img alt="DinethShakya's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/DinethShakya23?cardType=level-alternate&theme=react&preferLogin=false" />
-  </a>
-  <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DinethShakya23&theme=radical" alt="GitHub Streak" height="180"/>
-    <br>
-  <!-- Top Languages Badge -->
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinethShakya23&langs_count=10&count_private=true&count_public=true&theme=dark&bg_color=000000&layout=compact&show_icons=true&include_forks=true" alt="Top Langs" />
-  </a>
-
-<!-- WakaTime Stats Badge
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=DinethShakya23&theme=dark&bg_color=000000" 
-    alt="Dineth's WakaTime stats" 
-  />
-</a>
-<br> -->
-
-</div>
-
----
-
-<!-- ### 📬 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/dineth-shakya"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="mailto:dinethshakya@email.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://github.com/DinethShakya23"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge" /></a>
-</p> -->
-
-### 🔍 Connect with me:
-<p align="center">
-  <!-- <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height="40" />
-  </a> -->
-  <a href="www.linkedin.com/in/dineth-shakya-25a759211" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" height="40" />
-  </a>
-  <a href="https://www.instagram.com/dine_shakya?igsh=YWw3aWZkdW8xa213" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" />
-  </a>
-  <a href="mailto:dinethshakya19@email.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.kaggle.com/dinethshakya" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="40" />
-</a>
-  <!-- <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40" />
-  </a> -->
-  <!-- <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="40" />
-  </a> -->
 </p>
 
 ---
