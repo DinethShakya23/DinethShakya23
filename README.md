@@ -6,8 +6,7 @@
 ### 🚀 About Me
 - 🎓 Computer Engineering Undergraduate @ University of Peradeniya  
 - 💻 Passionate about solving real-world problems through technology  
-- 🌱 Currently exploring **Web Development" , **Linux**, **AWS**, and **DevOps**  
-- 🔍 Always learning and building cool stuff!
+- 🌱 Currently exploring **Web Developmen** , **Linux**, **AWS**, and **DevOps**  
 
 ---
 
@@ -84,20 +83,20 @@
 
 
 ### 📊 GitHub Stats     
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DinethShakya23&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DinethShakya23&theme=radical" alt="GitHub Streak" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinethShakya23&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
-</p>
+</p> -->
 
 <div align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=react&preferLogin=false">
     <img alt="DinethShakya's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/DinethShakya23?cardType=level-alternate&theme=react&preferLogin=false" />
   </a>
 </div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinethShakya23&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
