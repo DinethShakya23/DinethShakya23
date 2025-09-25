@@ -2,8 +2,8 @@ name: generate animation
 
 on:
   schedule:
-  #   #   - cron: "0 0 * * 1"    # run automatically every week, Monday
-    - cron: "* * * * *"
+      - cron: "0 0 * * 1"    # run automatically every week, Monday at midnight
+      # - cron: "* * * * *" # run every minute (for testing only, remove for production)
   workflow_dispatch:
   push:
     branches:
