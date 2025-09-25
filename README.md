@@ -91,10 +91,10 @@
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=react&preferLogin=false">
     <img alt="DinethShakya's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/DinethShakya23?cardType=level-alternate&theme=react&preferLogin=false" />
   </a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinethShakya23&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DinethShakya23&theme=radical" alt="GitHub Streak" height="180"/>
   <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DinethShakya23&theme=radical" alt="GitHub Streak" height="180"/>
-</p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinethShakya23&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
+  </p>
 </div>
 
 
