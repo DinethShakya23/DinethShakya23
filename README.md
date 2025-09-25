@@ -93,12 +93,10 @@
   </a>
   <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DinethShakya23&theme=radical" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinethShakya23&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
 </p>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinethShakya23&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
