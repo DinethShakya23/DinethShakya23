@@ -26,12 +26,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats     
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DinethShakya23&show_icons=true&theme=radical" alt="stats" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DinethShakya23&theme=radical" alt="streak" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinethShakya23&layout=compact&theme=radical" alt="top-langs" height="180"/>
 </p>
+
+<img src="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=react&preferLogin=false" alt="stats" height="180"/>
 
 ---
 
