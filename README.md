@@ -92,19 +92,11 @@
     <img alt="DinethShakya's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/DinethShakya23?cardType=level-alternate&theme=react&preferLogin=false" />
   </a>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DinethShakya23&theme=radical" alt="GitHub Streak" height="180"/>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinethShakya23&layout=compact&theme=vue&hide_border=true&hide=Jupyter%20Notebook" alt="Top Languages" />
-  </p>
-</div>
-
-<!-- Top Languages Badge -->
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinethShakya23&langs_count=10&count_private=true&count_public=true&theme=dark&bg_color=000000&layout=compact&show_icons=true&include_forks=true" 
-    alt="Top Langs" 
-  />
-</a>
-<br>
+  <!-- Top Languages Badge -->
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinethShakya23&langs_count=10&count_private=true&count_public=true&theme=dark&bg_color=000000&layout=compact&show_icons=true&include_forks=true" alt="Top Langs" />
+  </a>
 
 <!-- WakaTime Stats Badge
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
@@ -118,7 +110,7 @@
 </div>
 
 
-
+<br>
 
 ---
 
