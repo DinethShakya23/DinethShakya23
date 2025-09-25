@@ -91,7 +91,9 @@
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=react&preferLogin=false">
     <img alt="DinethShakya's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/DinethShakya23?cardType=level-alternate&theme=react&preferLogin=false" />
   </a>
+  <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DinethShakya23&theme=radical" alt="GitHub Streak" height="180"/>
+    <br>
   <!-- Top Languages Badge -->
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <img 
@@ -108,9 +110,6 @@
 <br> -->
 
 </div>
-
-
-<br>
 
 ---
 
