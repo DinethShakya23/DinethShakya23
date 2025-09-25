@@ -4,6 +4,68 @@
 ---
 
 ### 🚀 About Me
+- 🎓 Computer Engineering Undergraduate @ University of Peradeniya  
+- 💻 Passionate about solving real-world problems through technology  
+- 🌱 Currently exploring **Linux**, **AWS**, and **DevOps**  
+- 🔍 Always learning and building cool stuff!
+
+---
+
+### 🌐 My GitHub Pages
+<p align="center">
+  <a href="https://DinethShakya23.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Visit%20My%20Website-blue?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,flutter,html,css,mysql,git,linux,aws" />
+</p>
+
+---
+
+### 📊 GitHub Stats     
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DinethShakya23&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DinethShakya23&theme=radical" alt="GitHub Streak" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinethShakya23&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
+</p>
+
+<div align="center">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=react&preferLogin=false">
+    <img alt="DinethShakya's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/DinethShakya23?cardType=level-alternate&theme=react&preferLogin=false" />
+  </a>
+</div>
+
+---
+
+### 📬 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/dineth-shakya"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:dinethshakya@email.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://github.com/DinethShakya23"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DinethShakya23&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
+
+
+
+<!-- <h1 align="center">Hi 👋, I'm Dineth Shakya</h1>
+<h3 align="center">💻 From problem to solution | ✨ Chasing code, Cloud, DevOps & Linux | Computer Engineering @ University of Peradeniya</h3>
+
+---
+
+### 🚀 About Me
 - 🎓 Undergraduate @ University of Peradeniya  
 - 💻 Interested in solving real-world problems  
 - 🌱 Currently exploring **Linux**, **AWS**, and **DevOps**  
@@ -60,4 +122,4 @@
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-</p>
+</p> -->
