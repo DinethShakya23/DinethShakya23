@@ -41,7 +41,6 @@
   <!-- Hardware/Embedded -->
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" alt="AVR" width="40" />
-  <<img src="https://www.vectorlogo.zone/logos/eclipse_mosquitto/eclipse_mosquitto-icon.svg" alt="MQTT" width="40" />
 
   <!-- Frameworks/Libraries -->
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" />
