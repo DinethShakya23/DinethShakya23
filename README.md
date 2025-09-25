@@ -63,6 +63,18 @@
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" />
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />
 
+  <!-- Option 1: Simple text-based logo -->
+<img src="https://img.shields.io/badge/Verilog-red?style=flat&logo=v&logoColor=white" alt="Verilog" width="40" height="40" />
+
+<!-- Option 2: Hardware/FPGA related icon -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" alt="Verilog" width="40" />
+
+<!-- Option 3: Create a custom badge -->
+<img src="https://img.shields.io/badge/Verilog-136D5C?style=for-the-badge&logo=v&logoColor=white" alt="Verilog" width="60" height="40" />
+
+<!-- Option 4: Use a generic HDL/FPGA icon -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/labview/labview-original.svg" alt="Verilog" width="40" />
+
 </p>
 
 ---
