@@ -34,7 +34,14 @@
 </p>
 
 <img src="<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinethShakya23&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
-  </a>" alt="stats" height="180"/>
+
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DinethShakya23&show_icons=true&theme=radical" alt="stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DinethShakya23&theme=radical" alt="streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinethShakya23&layout=compact&theme=vue&hide_border=true" alt="top-langs"/>
+</p>
 
 ---
 
