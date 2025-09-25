@@ -20,9 +20,61 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🧰 Languages and Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,flutter,html,css,mysql,git,linux,aws" />
+
+  <!-- Programming Languages -->
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" />
+  
+  <br/><br/>
+  
+  <!-- Web Technologies -->
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" />
+  
+  <br/><br/>
+
+  <!-- Hardware/Embedded -->
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" alt="AVR" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/verilog/verilog-original.svg" alt="Verilog" width="40" />
+  <img src="https://mqtt.org/assets/img/mqtt-logo-transp.svg" alt="MQTT" width="40" />
+
+  <br/><br/>
+
+  <!-- Design/CAD -->
+  <img src="https://www.vectorlogo.zone/logos/autodesk/autodesk-icon.svg" alt="AutoCAD" width="40" />
+  <img src="https://seeklogo.com/images/A/autodesk-fusion-360-logo-7F72A76397-seeklogo.com.png" alt="Fusion 360" width="40" />
+
+  <br/><br/>
+
+  <!-- Frameworks/Libraries -->
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" />
+
+  <br/><br/>
+
+  <!-- Databases -->
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" />
+
+  <br/><br/>
+
+  <!-- Tools & Platforms -->
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />
+
 </p>
 
 ---
@@ -57,69 +109,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DinethShakya23&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
-
-
-
-<!-- <h1 align="center">Hi 👋, I'm Dineth Shakya</h1>
-<h3 align="center">💻 From problem to solution | ✨ Chasing code, Cloud, DevOps & Linux | Computer Engineering @ University of Peradeniya</h3>
-
----
-
-### 🚀 About Me
-- 🎓 Undergraduate @ University of Peradeniya  
-- 💻 Interested in solving real-world problems  
-- 🌱 Currently exploring **Linux**, **AWS**, and **DevOps**  
-
----
-
-### 🌐 My GitHub Pages
-<p align="center">
-  <a href="https://DinethShakya23.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Visit%20My%20Website-blue?style=for-the-badge" />
-  </a>
-</p>
-
----
-
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,flutter,html,css,mysql,git,linux,aws" />
-</p>
-
----
-
-### 📊 GitHub Stats     
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DinethShakya23&show_icons=true&theme=radical" alt="stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DinethShakya23&theme=radical" alt="streak" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinethShakya23&layout=compact&theme=radical" alt="top-langs" height="180"/>
-</p>
-
-<img src="<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinethShakya23&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
-
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DinethShakya23&show_icons=true&theme=radical" alt="stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DinethShakya23&theme=radical" alt="streak" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinethShakya23&layout=compact&theme=vue&hide_border=true" alt="top-langs"/>
-</p>
-
----
-
-<div align="center">
- 
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=react&preferLogin=false">    <img  alt="DinethShakya's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/DinethShakya23?cardType=level-alternate&theme=react&preferLogin=false" />  </a>
-  
-  <a href="https://github.com/dinethshakya23">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinethShakya23&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
-
----
-
-### 📬 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-</p> -->
