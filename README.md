@@ -121,7 +121,7 @@
 ### 📊 GitHub Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" src="dist/grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" src="https://DinethShakya23.github.io/DinethShakya23/dist/grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" src="https://github.com/DinethShakya23/DinethShakya23/blob/main/dist/grid-snake-dark.svg" />
   <img alt="GitHub Contribution Snake" src="github-snake.svg" />
 </picture>
 
