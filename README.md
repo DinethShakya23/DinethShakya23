@@ -20,7 +20,7 @@
   <a href="https://www.instagram.com/dine_shakya?igsh=YWw3aWZkdW8xa213" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" />
   </a>
-  <a href="mailto:dinethshakya19@email.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&to=dinethshakya19@email.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.kaggle.com/dinethshakya" target="_blank">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="40" />
 </a>
@@ -109,3 +109,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DinethShakya23&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
+
+---
