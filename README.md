@@ -1,6 +1,6 @@
 <img src="hello.gif" alt="My GIF" width="100%" />
 
-<h1 align="center">👋, I'm Dineth Shakya</h1>
+<h1 align="center">👋 I'm Dineth Shakya</h1>
 <h3 align="center">💻 From problem to solution | ✨ Chasing code, Cloud, DevOps & Linux | Computer Engineering @ University of Peradeniya</h3>
 
 ---
@@ -50,6 +50,11 @@
   <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DinethShakya23&theme=radical" alt="GitHub Streak" height="180"/>
     <br>
+
+    <!-- Alternative streak stats service -->
+<img src="https://streak-stats.demolab.com/?user=DinethShakya23&theme=radical" alt="GitHub Streak" height="180"/>
+<br>
+
   <!-- Top Languages Badge -->
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <img 
