@@ -120,8 +120,8 @@
 
 ### 📊 GitHub Contributions
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://DinethShakya23.github.io/DinethShakya23/dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://DinethShakya23.github.io/DinethShakya23/dist/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" src="dist/grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" src="https://DinethShakya23.github.io/DinethShakya23/dist/grid-snake.svg" />
   <img alt="GitHub Contribution Snake" src="github-snake.svg" />
 </picture>
 
