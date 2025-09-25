@@ -67,7 +67,7 @@
 
 ---
 
-### 🧰 Languages and Tools:
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Languages and Tools:
 <p align="center">
 
   <!-- Programming Languages -->
@@ -110,6 +110,12 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DinethShakya23&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
+
+---
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" style="border-radius: 15%"/>
 </p>
 
 ---
