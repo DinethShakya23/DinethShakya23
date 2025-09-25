@@ -51,7 +51,7 @@
   <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DinethShakya23&theme=radical" alt="GitHub Streak" height="180"/>
   <br>
-  
+
   <!-- Top Languages Badge -->
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <img 
@@ -116,6 +116,14 @@
   <img src="https://komarev.com/ghpvc/?username=DinethShakya23&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
 
+---
+
+### 📊 GitHub Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://DinethShakya23.github.io/DinethShakya23/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://DinethShakya23.github.io/DinethShakya23/dist/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="github-snake.svg" />
+</picture>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" style="border-radius: 15%"/>
