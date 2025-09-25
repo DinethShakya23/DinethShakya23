@@ -41,12 +41,8 @@
   <!-- Hardware/Embedded -->
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" alt="AVR" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/verilog/verilog-original.svg" alt="Verilog" width="40" />
+  <img src="https://img.shields.io/badge/Verilog_HDL-red?style=flat&logo=xilinx&logoColor=white" alt="Verilog HDL" width="80" height="40" />
   <img src="https://mqtt.org/assets/img/mqtt-logo-transp.svg" alt="MQTT" width="40" />
-
-  <!-- Design/CAD -->
-  <img src="https://www.vectorlogo.zone/logos/autodesk/autodesk-icon.svg" alt="AutoCAD" width="40" />
-  <img src="https://seeklogo.com/images/A/autodesk-fusion-360-logo-7F72A76397-seeklogo.com.png" alt="Fusion 360" width="40" />
 
   <!-- Frameworks/Libraries -->
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" />
@@ -62,18 +58,6 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" />
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />
-
-  <!-- Option 1: Simple text-based logo -->
-<img src="https://img.shields.io/badge/Verilog-red?style=flat&logo=v&logoColor=white" alt="Verilog" width="40" height="40" />
-
-<!-- Option 2: Hardware/FPGA related icon -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" alt="Verilog" width="40" />
-
-<!-- Option 3: Create a custom badge -->
-<img src="https://img.shields.io/badge/Verilog-136D5C?style=for-the-badge&logo=v&logoColor=white" alt="Verilog" width="60" height="40" />
-
-<!-- Option 4: Use a generic HDL/FPGA icon -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/labview/labview-original.svg" alt="Verilog" width="40" />
 
 </p>
 
