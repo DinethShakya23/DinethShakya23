@@ -31,16 +31,12 @@
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" />
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" />
   
-  <br/><br/>
-  
   <!-- Web Technologies -->
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="40" />
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="40" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" />
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" />
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" />
-  
-  <br/><br/>
 
   <!-- Hardware/Embedded -->
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" />
@@ -48,26 +44,18 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/verilog/verilog-original.svg" alt="Verilog" width="40" />
   <img src="https://mqtt.org/assets/img/mqtt-logo-transp.svg" alt="MQTT" width="40" />
 
-  <br/><br/>
-
   <!-- Design/CAD -->
   <img src="https://www.vectorlogo.zone/logos/autodesk/autodesk-icon.svg" alt="AutoCAD" width="40" />
   <img src="https://seeklogo.com/images/A/autodesk-fusion-360-logo-7F72A76397-seeklogo.com.png" alt="Fusion 360" width="40" />
-
-  <br/><br/>
 
   <!-- Frameworks/Libraries -->
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" />
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" />
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" />
 
-  <br/><br/>
-
   <!-- Databases -->
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" />
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" />
-
-  <br/><br/>
 
   <!-- Tools & Platforms -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
