@@ -106,14 +106,14 @@
 </a>
 <br>
 
-<!-- WakaTime Stats Badge -->
+<!-- WakaTime Stats Badge
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
   <img 
     src="https://github-readme-stats.vercel.app/api/wakatime?username=DinethShakya23&theme=dark&bg_color=000000" 
     alt="Dineth's WakaTime stats" 
   />
 </a>
-<br>
+<br> -->
 
 </div>
 
