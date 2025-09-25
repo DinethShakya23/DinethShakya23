@@ -33,7 +33,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinethShakya23&layout=compact&theme=radical" alt="top-langs" height="180"/>
 </p>
 
-<img src="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=react&preferLogin=false" alt="stats" height="180"/>
+<img src="<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinethShakya23&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
+  </a>" alt="stats" height="180"/>
 
 ---
 
