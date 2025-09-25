@@ -10,8 +10,33 @@
 
 ---
 
+### 🌐 My GitHub Pages
+<p align="center">
+  <a href="https://DinethShakya23.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Visit%20My%20Website-blue?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,flutter,html,css,mysql,git,linux,aws" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DinethShakya23&show_icons=true&theme=radical" alt="stats" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DinethShakya23&theme=radical" alt="streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinethShakya23&layout=compact&theme=radical" alt="top-langs" height="180"/>
+</p>
+
+---
+
+### 📬 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge" /></a>
 </p>
