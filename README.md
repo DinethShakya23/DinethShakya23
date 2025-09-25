@@ -1,4 +1,4 @@
-<a href = "https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg4MjQyNjUsIm5iZiI6MTc1ODgyMzk2NSwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTI1VDE4MTI0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVlZmVhZTQ5ZmJjM2U3ZWEzMjBmMmJmNTVjZDQzMjQzZThiZmQ3ZTNhYjJlNDBjM2FmYTFlMzBjNjhkNTNhMzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.K2NeAPSQjlaYlQtrfn6WHTj3kZYis2KDJ8O9Zws-E2U"></a>
+<img src="hello.gif" alt="My GIF" width="400" />
 
 <h1 align="center">Hi 👋, I'm Dineth Shakya</h1>
 <h3 align="center">💻 From problem to solution | ✨ Chasing code, Cloud, DevOps & Linux | Computer Engineering @ University of Peradeniya</h3>
