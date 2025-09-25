@@ -120,9 +120,9 @@
 
 ### 📊 GitHub Contributions
 <picture>
-  <!-- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DinethShakya23/DinethShakya23/blob/main/dist/grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/DinethShakya23/DinethShakya23/blob/main/dist/grid-snake.svg" /> -->
-  <img alt="GitHub Contribution Snake" src="https://github.com/DinethShakya23/DinethShakya23/blob/main/dist/grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DinethShakya23/DinethShakya23/blob/main/dist/grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/DinethShakya23/DinethShakya23/blob/main/dist/grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://github.com/DinethShakya23/DinethShakya23/blob/main/dist/grid-snake.svg" />
 </picture>
 
 <p align="center">
