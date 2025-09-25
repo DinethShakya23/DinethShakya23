@@ -85,13 +85,15 @@
 ### 📊 GitHub Stats     
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DinethShakya23&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DinethShakya23&theme=radical" alt="GitHub Streak" height="180"/>
 </p> -->
 
 <div align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=react&preferLogin=false">
     <img alt="DinethShakya's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/DinethShakya23?cardType=level-alternate&theme=react&preferLogin=false" />
   </a>
+  <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DinethShakya23&theme=radical" alt="GitHub Streak" height="180"/>
+</p>
 </div>
 
 <p align="center">
