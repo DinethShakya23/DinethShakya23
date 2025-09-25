@@ -6,17 +6,14 @@
 ### 🚀 About Me
 - 🎓 Computer Engineering Undergraduate @ University of Peradeniya  
 - 💻 Passionate about solving real-world problems through technology  
-- 🌱 Currently exploring **Linux**, **AWS**, and **DevOps**  
+- 🌱 Currently exploring **Web Development" , **Linux**, **AWS**, and **DevOps**  
 - 🔍 Always learning and building cool stuff!
 
 ---
 
-### 🌐 My GitHub Pages
-<p align="center">
-  <a href="https://DinethShakya23.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Visit%20My%20Website-blue?style=for-the-badge" />
-  </a>
-</p>
+### 📫 How to reach me:
+  - Email : dinethshakya19@gmail.com
+  <!-- add my portfolio later -->
 
 ---
 
