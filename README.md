@@ -52,8 +52,9 @@
   </a>
 
   <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DinethShakya23&theme=radical" alt="GitHub Streak" height="180"/>
-  <br>
+  <!-- Github Streak -->
+    <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=DinethShakya23&theme=radical" alt="GitHub Streak" height="180"/>
+  <br> -->
 
   <!-- Top Languages Badge -->
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
