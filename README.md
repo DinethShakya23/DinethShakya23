@@ -8,7 +8,8 @@
 ### 🚀 About Me
 - 🎓 Computer Engineering Undergraduate @ University of Peradeniya  
 - 💻 Passionate about solving real-world problems through technology  
-- 🌱 Currently exploring **Web Development** , **Linux**, **AWS**, and **DevOps**  
+- 🌱 Currently exploring **Web Development** , **Linux**, **AWS**, and **DevOps**
+- 🤝 Actively contributing to **Open Source Projects**
 
 ---
 ### 🔍 Connect with me:
