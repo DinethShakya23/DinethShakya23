@@ -1,7 +1,8 @@
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> I’m [Dineth Shakya](https://www.linkedin.com/in/dineth-shakya-25a759211) 
+
 [![An image of @dinethshakya23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dinethshakya23)](https://holopin.io/@dinethshakya23)
 <!-- <img src="hello.gif" alt="My GIF" width="100%" /> -->
 
-<h1 align="center">👋 I'm Dineth Shakya</h1>
 <h3 align="center">💻 From problem to solution | ✨ Chasing code, Cloud, DevOps & Linux | Computer Engineering @ University of Peradeniya</h3>
 
 ---
@@ -13,6 +14,7 @@
 - 🤝 Actively contributing to **Open Source Projects**
 
 ---
+
 ### 🔍 Connect with me:
 <p align="center">
   <!-- <a href="#" target="_blank">
@@ -30,6 +32,9 @@
   <a href="https://mail.google.com/mail/?view=cm&to=dinethshakya19@email.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge" height="40"/>
   </a>
+  <a href="https://discord.com/users/d.Shaky@~" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="40" />
+  </a>
   <a href="https://www.kaggle.com/dinethshakya" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="40" />
   </a>
@@ -46,7 +51,17 @@
 ### 📊 GitHub Stats     
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DinethShakya23&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-</p> -->
+</p>
+---
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+
+![Shakya's github stats](https://github-readme-stats.vercel.app/api?username=DinethShakya23&count_private=true&theme=dark&bg_color=000000&show_icons=true&ring_color=FF6500)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DinethShakya23&langs_count=10&count_private=true&theme=dark&bg_color=000000&layout=compact&show_icons=true&include_forks=true)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DinethShakya23&theme=dark&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chandula00&count_private=true&theme=dark&background=000000)](https://git.io/streak-stats) 
+-->
+
+
 
 <div align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=react&preferLogin=false">
@@ -58,11 +73,12 @@
     <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=DinethShakya23&theme=radical" alt="GitHub Streak" height="180"/>
   <br> -->
 
-  <!-- Top Languages Badge -->
+<!--
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinethShakya23&langs_count=10&count_private=true&count_public=true&theme=dark&bg_color=000000&layout=compact&show_icons=true&include_forks=true" alt="Top Langs" />
   </a>
+  -->
 
 <!-- WakaTime Stats Badge
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
@@ -85,6 +101,7 @@
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" />
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" />
   
@@ -93,6 +110,7 @@
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="40" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" />
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" />
+  <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" />
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" />
 
   <!-- Hardware/Embedded -->
@@ -106,13 +124,28 @@
 
   <!-- Databases -->
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" />
 
   <!-- Tools & Platforms -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" />
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" />
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" />
+
+  <!--ML/ Dats Science -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" />
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" />
+
+<!-- UI Design -->
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
+
+
 
 </p>
 
