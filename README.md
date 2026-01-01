@@ -1,4 +1,9 @@
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> I’m [Dineth Shakya](https://www.linkedin.com/in/dineth-shakya-25a759211) 
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+  I'm <a href="https://www.linkedin.com/in/dineth-shakya-25a759211">Dineth Shakya</a>
+</h1>
+<h3 align="center">A passionate Computer Engineering student from Ceylon.</h3>
+
 
 [![An image of @dinethshakya23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dinethshakya23)](https://holopin.io/@dinethshakya23)
 <!-- <img src="hello.gif" alt="My GIF" width="100%" /> -->
