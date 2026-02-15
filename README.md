@@ -25,7 +25,7 @@
   <!-- <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height="40" />
   </a> -->
-<a href="https://www.linkedin.com/in/dineth-shakya-25a759211/" target="_blank">
+<a href="https://www.linkedin.com/in/dineth-de-silva-25a759211" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" height="40" />
   </a>
   <a href="https://www.instagram.com/dine_shakya?igsh=YWw3aWZkdW8xa213" target="_blank">
