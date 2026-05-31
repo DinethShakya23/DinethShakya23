@@ -15,7 +15,8 @@
 ### 🚀 About Me
 - 🎓 Computer Engineering Undergraduate @ University of Peradeniya  
 - 💻 Passionate about solving real-world problems through technology  
-- 🌱 Currently exploring **Web Development** , **Linux**, **AWS**, and **DevOps**
+- 🔧 Currently working as an **SRE Intern @ WSO2**
+- 🌱 Currently diving into **SRE practices**, **Cloud & DevOps**, **Kubernetes**, and **SaaS Operations**
 - 🤝 Actively contributing to **Open Source Projects**
 
 ---
@@ -55,13 +56,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DinethShakya23&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
 ### 📊 GitHub Stats     
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DinethShakya23&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
@@ -84,8 +78,6 @@
 
   <br>
   <img src="https://streak-stats.demolab.com?user=DinethShakya23&theme=react&background=0D1117" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinethShakya23&langs_count=8&theme=react&layout=compact&hide_border=true" alt="Top Languages" />
 
 <!-- WakaTime Stats Badge
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
