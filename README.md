@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-  I'm <a href="https://www.linkedin.com/in/dineth-shakya-25a759211">Dineth Shakya</a>
+  I'm <a href="https://dinethshakya.com/</a>
 </h1>
 <h3 align="center">A passionate Computer Engineering student from Ceylon.</h3>
 
