@@ -57,7 +57,7 @@
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DinethShakya23&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DinethShakya23&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -85,7 +85,7 @@
   <br>
   <img src="https://streak-stats.demolab.com?user=DinethShakya23&theme=react&background=0D1117" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinethShakya23&langs_count=8&count_private=true&theme=react&bg_color=0D1117&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinethShakya23&langs_count=8&theme=react&layout=compact&hide_border=true" alt="Top Languages" />
 
 <!-- WakaTime Stats Badge
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
