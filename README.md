@@ -72,9 +72,7 @@
 
 
 <div align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=react&preferLogin=false">
-    <img alt="DinethShakya's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/DinethShakya23?cardType=level-alternate&theme=react&preferLogin=false" />
-  </a>
+  <img alt="DinethShakya's GitHub Metrics" src="https://raw.githubusercontent.com/DinethShakya23/DinethShakya23/main/github-metrics.svg" />
 
   <br>
   <img src="https://streak-stats.demolab.com?user=DinethShakya23&theme=react&background=0D1117" alt="GitHub Streak" />
@@ -163,9 +161,9 @@
 
 ### 📊 GitHub Contributions
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DinethShakya23/DinethShakya23/blob/main/dist/grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/DinethShakya23/DinethShakya23/blob/main/dist/grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://github.com/DinethShakya23/DinethShakya23/blob/main/dist/grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DinethShakya23/DinethShakya23/main/dist/grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DinethShakya23/DinethShakya23/main/dist/grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/DinethShakya23/DinethShakya23/main/dist/grid-snake.svg" />
 </picture>
 
 <p align="center">
