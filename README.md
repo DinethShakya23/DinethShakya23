@@ -13,10 +13,10 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Computer Engineering Undergraduate @ University of Peradeniya  
-- 💻 Passionate about solving real-world problems through technology  
-- 🔧 Currently working as an **SRE Intern @ WSO2**
-- 🌱 Currently diving into **SRE practices**, **Cloud & DevOps**, **Kubernetes**, and **SaaS Operations**
+- 🎓 Computer Engineering Graduate @ University of Peradeniya
+- 💻 Passionate about solving real-world problems through technology
+- 🔧 Former SRE Intern @ WSO2
+- 🌱 Exploring **Site Reliability Engineering (SRE)**, **Cloud & DevOps**, & **SaaS Operations**
 - 🤝 Actively contributing to **Open Source Projects**
 
 ---
